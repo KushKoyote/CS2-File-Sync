@@ -36,7 +36,7 @@ namespace FileSync
         {
             InitializeComponent();
         }
-        //test
+     
         private void Main_Load(object sender, EventArgs e)
         {
             path_handler();

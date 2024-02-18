@@ -27,10 +27,7 @@ namespace FileSync
                                                                                  //                                   -> shit   -> etc
         };
 
-        public static Dictionary<string, string> download_data = new Dictionary<string, string>()
-        {
-            { "total", ""},
-        };
+        //
 
         private Point offset;
         bool mouseDown;
@@ -153,7 +150,7 @@ namespace FileSync
 
         private void setting_panel_Paint(object sender, PaintEventArgs e)
         {
-
+            
         }
 
         //MINIMIZE

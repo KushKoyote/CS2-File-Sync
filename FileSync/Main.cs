@@ -27,8 +27,7 @@ namespace FileSync
                                                                                  //                                   -> shit   -> etc
         };
 
-        //
-
+ 
         private Point offset;
         bool mouseDown;
 

@@ -9,5 +9,5 @@ How To Use:
 ![step1](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/ca10dfe5-2875-47a8-996a-1ebe0cdd5955)
 ![step2](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/d67f4045-d96d-4b03-83b6-f2a718f8a1e6)
 <br>
-Preview:
+Preview:<br>
 ![preview](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/04bf04f5-4fec-425d-907b-1a061e1ab723)

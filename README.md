@@ -6,5 +6,5 @@ A Simple C# Alternative for FastDL Replacement for CS2 Servers to sync music/mod
 
 
 How To Use:
-![step1](https://github.com/KushKoyote/CS2-Server-File-Sync/assets/134854424/9c634d6c-8b89-471e-a87b-0d5deec09b4e)
-![step2](https://github.com/KushKoyote/CS2-Server-File-Sync/assets/134854424/ed06fa68-80cf-4697-b673-db05924c194d)
+![step1](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/ca10dfe5-2875-47a8-996a-1ebe0cdd5955)
+![step2](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/d67f4045-d96d-4b03-83b6-f2a718f8a1e6)

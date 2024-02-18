@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.header_panel = new System.Windows.Forms.Panel();
             this.siticoneButton5 = new Siticone.Desktop.UI.WinForms.SiticoneButton();
             this.siticoneButton3 = new Siticone.Desktop.UI.WinForms.SiticoneButton();
@@ -355,6 +356,7 @@
             this.Controls.Add(this.setting_panel);
             this.Controls.Add(this.header_panel);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Main";

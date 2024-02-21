@@ -76,7 +76,7 @@
             this.siticoneButton5.FillColor = System.Drawing.Color.Transparent;
             this.siticoneButton5.Font = new System.Drawing.Font("Segoe UI", 11.25F);
             this.siticoneButton5.ForeColor = System.Drawing.Color.White;
-            this.siticoneButton5.Location = new System.Drawing.Point(534, 10);
+            this.siticoneButton5.Location = new System.Drawing.Point(385, 10);
             this.siticoneButton5.Name = "siticoneButton5";
             this.siticoneButton5.Size = new System.Drawing.Size(35, 23);
             this.siticoneButton5.TabIndex = 2;
@@ -95,7 +95,7 @@
             this.siticoneButton3.FillColor = System.Drawing.Color.Transparent;
             this.siticoneButton3.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.siticoneButton3.ForeColor = System.Drawing.Color.White;
-            this.siticoneButton3.Location = new System.Drawing.Point(505, 10);
+            this.siticoneButton3.Location = new System.Drawing.Point(352, 10);
             this.siticoneButton3.Name = "siticoneButton3";
             this.siticoneButton3.Size = new System.Drawing.Size(31, 23);
             this.siticoneButton3.TabIndex = 1;
@@ -128,7 +128,7 @@
             this.sync_path.Location = new System.Drawing.Point(10, 137);
             this.sync_path.Multiline = true;
             this.sync_path.Name = "sync_path";
-            this.sync_path.Size = new System.Drawing.Size(552, 36);
+            this.sync_path.Size = new System.Drawing.Size(402, 36);
             this.sync_path.TabIndex = 9;
             // 
             // label3
@@ -157,7 +157,7 @@
             this.siticoneButton1.ForeColor = System.Drawing.Color.White;
             this.siticoneButton1.Location = new System.Drawing.Point(9, 188);
             this.siticoneButton1.Name = "siticoneButton1";
-            this.siticoneButton1.Size = new System.Drawing.Size(553, 45);
+            this.siticoneButton1.Size = new System.Drawing.Size(403, 45);
             this.siticoneButton1.TabIndex = 4;
             this.siticoneButton1.Text = "Save Settings";
             this.siticoneButton1.Click += new System.EventHandler(this.siticoneButton1_Click);
@@ -192,7 +192,7 @@
             "AWESOME NETWORK"});
             this.game_select.Location = new System.Drawing.Point(10, 70);
             this.game_select.Name = "game_select";
-            this.game_select.Size = new System.Drawing.Size(552, 36);
+            this.game_select.Size = new System.Drawing.Size(402, 36);
             this.game_select.TabIndex = 0;
             this.game_select.SelectedIndexChanged += new System.EventHandler(this.game_select_SelectedIndexChanged);
             // 
@@ -226,11 +226,11 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Lime;
-            this.label1.Location = new System.Drawing.Point(228, 261);
+            this.label1.Location = new System.Drawing.Point(60, 291);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 20);
+            this.label1.Size = new System.Drawing.Size(298, 20);
             this.label1.TabIndex = 9;
-            this.label1.Text = "Sync Completed";
+            this.label1.Text = "Sync Completed, Start or Restart the Game";
             this.label1.Visible = false;
             // 
             // siticoneProgressBar1
@@ -245,7 +245,7 @@
             this.siticoneProgressBar1.ProgressColor = System.Drawing.Color.Green;
             this.siticoneProgressBar1.ProgressColor2 = System.Drawing.Color.GreenYellow;
             this.siticoneProgressBar1.ShowText = true;
-            this.siticoneProgressBar1.Size = new System.Drawing.Size(553, 30);
+            this.siticoneProgressBar1.Size = new System.Drawing.Size(403, 30);
             this.siticoneProgressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.siticoneProgressBar1.TabIndex = 8;
             this.siticoneProgressBar1.Text = "siticoneProgressBar1";
@@ -257,7 +257,7 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.Control;
-            this.label6.Location = new System.Drawing.Point(6, 264);
+            this.label6.Location = new System.Drawing.Point(6, 262);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(133, 16);
             this.label6.TabIndex = 5;
@@ -277,7 +277,7 @@
             this.siticoneButton4.ForeColor = System.Drawing.Color.White;
             this.siticoneButton4.Location = new System.Drawing.Point(9, 322);
             this.siticoneButton4.Name = "siticoneButton4";
-            this.siticoneButton4.Size = new System.Drawing.Size(553, 45);
+            this.siticoneButton4.Size = new System.Drawing.Size(403, 45);
             this.siticoneButton4.TabIndex = 4;
             this.siticoneButton4.Text = "Sync Server Files";
             this.siticoneButton4.Click += new System.EventHandler(this.siticoneButton4_Click);
@@ -287,7 +287,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(13)))), ((int)(((byte)(13)))));
-            this.ClientSize = new System.Drawing.Size(573, 433);
+            this.ClientSize = new System.Drawing.Size(420, 433);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.sync_path);
             this.Controls.Add(this.siticoneProgressBar1);

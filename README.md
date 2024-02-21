@@ -10,4 +10,4 @@ How To Use:
 ![step2](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/d67f4045-d96d-4b03-83b6-f2a718f8a1e6)
 <br>
 Preview:<br>
-![preview](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/04bf04f5-4fec-425d-907b-1a061e1ab723)
+![2024-02-21 14_25_18-FileSync (wird ausgeführt) - Microsoft Visual Studio](https://github.com/KushKoyote/CS2-File-Sync/assets/134854424/ab91d5d6-f2ce-4d66-80e8-caeb8b7955bd)
